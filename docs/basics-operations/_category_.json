@@ -1,0 +1,8 @@
+{
+  "label": "Operaciones - Básicas",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Operaciones Básicas en Bases de Datos NoSQL: Un Recorrido por MongoDB, Redis y Cassandra"
+  }
+}

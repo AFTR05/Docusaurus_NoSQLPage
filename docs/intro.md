@@ -1,47 +1,77 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# Instalación
+# Documentación de MongoDB, Redis y Cassandra
 
-Descubramos **Empanada  ignorar**.
+¡Bienvenido a la documentación oficial para MongoDB, Redis y Cassandra! Aquí encontrarás información detallada sobre la instalación, operaciones básicas y ejemplos prácticos para estas potentes bases de datos NoSQL.
 
-## Getting Started
+## Contenido
 
-Get started by **creating a new site**.
+### 1. Instalación
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [MongoDB](#mongodb-instalación)
+- [Redis](#redis-instalación)
+- [Cassandra](#cassandra-instalación)
 
-### What you'll need
+### 2. Operaciones Básicas
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [MongoDB](#mongodb-operaciones-básicas)
+- [Redis](#redis-operaciones-básicas)
+- [Cassandra](#cassandra-operaciones-básicas)
 
-## Generate a new site
+### 3. Ejemplo Práctico
 
-Generate a new Docusaurus site using the **classic template**.
+- [MongoDB](#mongodb-ejemplo)
+- [Redis](#redis-ejemplo)
+- [Cassandra](#cassandra-ejemplo)
 
-The classic template will automatically be added to your project after you run the command:
+---
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 1. Instalación
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### MongoDB Instalación
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Sigue los pasos detallados en nuestra guía de instalación para tu sistema operativo: [Instalación de MongoDB](/docs/Instalation/mongodb-instalation).
 
-## Start your site
+### Redis Instalación
 
-Run the development server:
+Consulta la documentación de instalación específica para tu plataforma: [Instalación de Redis](/docs/Instalation/redis-instalation).
 
-```bash
-cd my-website
-npm run start
-```
+### Cassandra Instalación
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Instrucciones detalladas para la instalación de Cassandra: [Instalación de Cassandra](/docs/Instalation/cassandra-instalation).
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3002/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## 2. Operaciones Básicas
+
+### MongoDB Operaciones Básicas
+
+Descubre las operaciones básicas que puedes realizar con MongoDB: [Operaciones Básicas de MongoDB](/docs/basics-operations/mongo-operations).
+
+### Redis Operaciones Básicas
+
+Explora las operaciones fundamentales con Redis: [Operaciones Básicas de Redis](/docs/basics-operations/redis-operations).
+
+### Cassandra Operaciones Básicas
+
+Aprende las operaciones esenciales en Cassandra: [Operaciones Básicas de Cassandra](/docs/basics-operations/cassandra-operations).
+
+---
+
+## 3. Ejemplo Práctico
+
+### MongoDB Ejemplo
+
+Echa un vistazo a un ejemplo práctico de uso de MongoDB: [Ejemplo Práctico de MongoDB](/docs/examples/mongodb-example).
+
+### Redis Ejemplo
+
+Descubre un caso de uso práctico de Redis: [Ejemplo Práctico de Redis](/docs/examples/redis-examples).
+
+### Cassandra Ejemplo
+
+Aprende a implementar un ejemplo práctico con Cassandra: [Ejemplo Práctico de Cassandra](/docs/examples/cassandra-example).
+
+¡Comienza ahora tu exploración y desarrollo con estas poderosas bases de datos NoSQL!

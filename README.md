@@ -1,41 +1,28 @@
-# Website
+# Documentación de MongoDB, Redis y Cassandra
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Este repositorio contiene la documentación oficial para MongoDB, Redis y Cassandra. Aquí encontrarás información detallada sobre la instalación, operaciones básicas y ejemplos prácticos para estas bases de datos NoSQL líderes.
 
-### Installation
+## Contenido
 
-```
-$ yarn
-```
+- **Instalación**
+  - MongoDB
+  - Redis
+  - Cassandra
 
-### Local Development
+- **Operaciones Básicas**
+  - MongoDB
+  - Redis
+  - Cassandra
 
-```
-$ yarn start
-```
+- **Ejemplo Práctico**
+  - MongoDB
+  - Redis
+  - Cassandra
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Autores
+ - **Juan Andrés Posada Aleans**
+    - [LinkedIn](https://www.linkedin.com/in/juanandr%C3%A9sposadaaleans010101?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrLTL4im6SK6%2Bic82cpEQFQ%3D%3D)
+    - [GitHub](https://github.com/JPosda14)
+ - **Andrés Felipe Toro Rendón**
+    - [LinkedIn](https://www.linkedin.com/in/andresfelipetororendonlipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4oNM%2FbISTCC9NPE3AsBZHg%3D%3D)
+    - [GitHub](https://github.com/AFTR05)

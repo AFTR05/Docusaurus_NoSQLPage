@@ -4,32 +4,40 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Mongo',
+    Svg: require('@site/static/img/mongodb.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Es una base de datos NoSQL orientada a documentos.
+        Almacena datos en documentos similares a JSON,
+        lo que facilita la manipulación y la escalabilidad.
+        Es flexible y permite el almacenamiento de datos no estructurados
+        o semiestructurados, siendo adecuado para aplicaciones con datos variables o complejos.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Cassandra',
+    Svg: require('@site/static/img/cassandra.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Es una base de datos distribuida NoSQL diseñada
+        para manejar grandes volúmenes de datos y operaciones
+        de escritura/lectura intensivas. Se centra en la escalabilidad
+        lineal y la alta disponibilidad, siendo ideal para aplicaciones
+        que necesitan manejar grandes cantidades de datos distribuidos en múltiples servidores.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Redis',
+    Svg: require('@site/static/img/redis.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Es una base de datos en memoria de tipo clave-valor extremadamente 
+        rápida y versátil. Se usa para caché, almacenamiento de datos en tiempo
+        real y gestión de sesiones. Sus capacidades de estructuras de datos avanzadas
+        lo hacen útil para aplicaciones que requieren alta velocidad y rendimiento.
       </>
     ),
   },
